@@ -19,8 +19,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHwanPark&layout=compact&icons=true&theme=dark)
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHwanPark&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHwanPark&layout=compact&icons=true&theme=dark)　　![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHwanPark&show_icons=true&theme=dark)
 
 </div>

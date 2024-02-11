@@ -1,7 +1,6 @@
 <div align="center">
 
 ### :baby_chick: Japark<br>
-### Blog : [하다 보면 되겠지](https://janghwanpark.github.io/)
 	
 ### description
 Front End 개발자를 목표로 공부중입니다.<br>

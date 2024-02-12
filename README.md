@@ -3,15 +3,18 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Jang+Hwan.+Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
-I'm on an exciting journey to become a proficient frontend developer, captivated by the endless possibilities of web development.
 
-I'm dedicated to mastering the fundamentals of HTML, CSS, and JavaScript while also immersing myself in modern frameworks like React to create beautiful and functional web interfaces. With a curious mind, I am committed to continuously learning new technologies and directly addressing the challenges that come my way.
+I'm on an exciting journey to become a proficient frontend developer, captivated by the endless possibilities of web development.<br>
+
+I'm dedicated to mastering the fundamentals of HTML, CSS, and JavaScript while also immersing myself in modern frameworks like React to create beautiful and functional web interfaces. With a curious mind, I am committed to continuously learning new technologies and directly addressing the challenges that come my way.<br>
 
 My ambition is to not only advance in the frontend domain but also to make a tangible contribution by becoming involved in React contributions.
 
 <img src="./assests/borderseperator.gif">
 
-<h2><strong>Studying</strong></h2>
+<div align="center">
+  <h2 style="text-decoration: none; border-bottom: none;"> <strong> Studying </strong> </h2>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -22,6 +25,7 @@ My ambition is to not only advance in the frontend domain but also to make a tan
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</div>
 
 <img  src="./assests/borderseperator.gif">
 

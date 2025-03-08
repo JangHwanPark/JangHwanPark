@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   </div>
 
+<br/>
+
+# [Profile](https://mystagingserver.store/about)
+
 I'm on an exciting journey to become a proficient frontend developer, captivated by the endless possibilities of web development.<br>
 
 I'm dedicated to mastering the fundamentals of HTML, CSS, and JavaScript while also immersing myself in modern frameworks like React to create beautiful and functional web interfaces. With a curious mind, I am committed to continuously learning new technologies and directly addressing the challenges that come my way.<br>

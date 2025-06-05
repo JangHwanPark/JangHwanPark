@@ -19,7 +19,7 @@
 
 <br/>
 
-# [Profile](https://mystagingserver.store)
+# [Profile](https://japark.store/)
 
 I'm on an exciting journey to become a proficient frontend developer, captivated by the endless possibilities of web development.<br>
 

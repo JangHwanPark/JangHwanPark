@@ -53,8 +53,8 @@ in React contributions.
 
 <div align="center">  
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/JangHwanPark/JangHwanPark/output/github-contribution-grid-snake.svg)
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JangHwanPark&theme=vue"/>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/JangHwanPark/JangHwanPark/output/github-contribution-grid-snake.svg)
 
 </div>

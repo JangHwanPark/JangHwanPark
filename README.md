@@ -31,18 +31,6 @@
 
 <br/>
 
-I'm on an exciting journey to become a proficient frontend developer, captivated by the endless possibilities of web
-development.<br>
-
-I'm dedicated to mastering the fundamentals of HTML, CSS, and JavaScript while also immersing myself in modern
-frameworks like React to create beautiful and functional web interfaces. With a curious mind, I am committed to
-continuously learning new technologies and directly addressing the challenges that come my way.<br>
-
-My ambition is to not only advance in the frontend domain but also to make a tangible contribution by becoming involved
-in React contributions.
-
-<br/>
-
 <div align="center">  
 
 <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=JangHwanPark&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages"/>

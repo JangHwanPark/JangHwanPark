@@ -6,7 +6,10 @@
          alt="Typing SVG"/>
 </div>
 
-<img src="./assests/borderseperator.gif">
+<div align="center">
+    <img src="./assests/borderseperator.gif" width="100%"/>
+</div>
+
 <div align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"/>
@@ -24,37 +27,25 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
-<!--div align="center">
-    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
-</div-->
-
-<br/>
-
-I'm on an exciting journey to become a proficient frontend developer, captivated by the endless possibilities of web
-development.<br>
-
-I'm dedicated to mastering the fundamentals of HTML, CSS, and JavaScript while also immersing myself in modern
-frameworks like React to create beautiful and functional web interfaces. With a curious mind, I am committed to
-continuously learning new technologies and directly addressing the challenges that come my way.<br>
-
-My ambition is to not only advance in the frontend domain but also to make a tangible contribution by becoming involved
-in React contributions.
-
-<br/>
-
-<div align="center">  
-
-<img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=JangHwanPark&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages"/>
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JangHwanPark?theme=dark)](https://leetcode.com/JangHwanPark)
-
+<div align="center">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TestRail-126BC5?style=for-the-badge&logo=testrail&logoColor=white"/>
 </div>
 
-<div align="center">  
+<br/>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/JangHwanPark/JangHwanPark/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=JangHwanPark&langs_count=6&card_width=400&bg_color=0d1117&title_color=0079fa&text_color=ffffff&icon_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" height="200"/>
+    <a href="https://leetcode.com/JangHwanPark"><img src="https://leetcard.jacoblin.cool/JangHwanPark?theme=dark" alt="Leetcode Stats" height="200"/></a>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JangHwanPark&theme=vue"/>
+<br/>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/JangHwanPark/JangHwanPark/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%"/>
+    <br/>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JangHwanPark&theme=github_dark"/>
 </div>
